@@ -1,7 +1,5 @@
 # Deploying-a-Sample-Index.html-with-Azure-Pipelines
 
-# **Guided Lab 01: Deploying a Sample Index.html with Azure Pipelines**
-
 ---
 
 ## **Why This Lab?**
