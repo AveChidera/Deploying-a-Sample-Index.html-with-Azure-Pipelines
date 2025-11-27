@@ -92,7 +92,7 @@ trigger:
   - main
 
 pool:
-  name: "self-hosted-agent-pool"
+  name: "linux-hosted-agent"
 
 variables:
   sshService: 'ssh-to-nginx-vm'
