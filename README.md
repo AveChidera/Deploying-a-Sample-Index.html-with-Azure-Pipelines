@@ -1,4 +1,4 @@
-# Deploying-a-Sample-Index.html-with-Azure-Pipelines
+# **Deploying a Sample Index.html with Azure Pipelines**
 
 ---
 
